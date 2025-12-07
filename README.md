@@ -107,11 +107,8 @@ For Gaussian Mixture Models, the explainer finds the **closest actionable point*
 ---
 
 
-
-
-
-
-
+### Reference
+Georgios Vardakas, Antonia Karra, Evaggelia Pitoura and Aristidis Likas. "Counterfactual explanations for k-means and Gaussian clustering." In IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI), 2025.
 
 
 
